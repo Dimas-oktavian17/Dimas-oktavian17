@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Pinia,Figma and Node Js**
 
-- 👨‍💻 All of my projects are available at [https://dmsokta.vercel.app/](https://dmsokta.vercel.app/)
+- 👨‍💻 All of my projects are available at [here](https://dmsokta.vercel.app/)
 
-- 📝 I regularly write articles on [https://dmsokta.vercel.app/blog](https://dmsokta.vercel.app/blog)
+- 📝 I regularly write articles on [here](https://dmsokta.vercel.app/blog)
 
 - 📫 How to reach me **dimas.ooktavian.17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V3NtK8eT1iKCBpWDlvuNujD95JwPJ6N5/view](https://drive.google.com/file/d/1V3NtK8eT1iKCBpWDlvuNujD95JwPJ6N5/view)
+- 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/1V3NtK8eT1iKCBpWDlvuNujD95JwPJ6N5/view)
 
 - ⚡ Fun fact **Just a curious person**
 
