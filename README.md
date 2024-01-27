@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/dimas-oktavian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/dimas-oktavian/" height="30" width="40" /></a>
-<a href="https://instagram.com/@oktamindjourney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@oktamindjourney" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@oktamindjourney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@oktamindjourney" height="30" width="40" /></a>
-<a href="/https://dmsokta.vercel.app/blog/avoid-props-hell-with-provide-inject/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dmsokta.vercel.app/blog/avoid-props-hell-with-provide-inject/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dimas-oktavian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/dimas-oktavian/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/oktamindjourney/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@oktamindjourney" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@OktaMindJourney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@oktamindjourney" height="30" width="40" /></a>
+<a href="https://dmsokta.vercel.app/blog/avoid-props-hell-with-provide-inject/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dmsokta.vercel.app/blog/avoid-props-hell-with-provide-inject/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
