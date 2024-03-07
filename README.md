@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oktaa</h1>
 <h3 align="center">Interested in Front-End Development</h3>
-![](https://komarev.com/ghpvc/?username=Dimas-oktavian17&abbreviated=true)
+(https://komarev.com/ghpvc/?username=Dimas-oktavian17&abbreviated=true)
 - 🔭 I’m currently working on [Data-Entry-Apps](https://github.com/Dimas-oktavian17/Data-entry-apps.git)
 
 - 🌱 I’m currently learning **Pinia,Figma and Node Js**
