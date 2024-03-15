@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on [Data-Entry-Apps](https://github.com/Dimas-oktavian17/Data-entry-apps.git)
-- 🌱 I’m currently learning **Pinia,Figma and Node Js**
+- 🌱 I’m currently learning **Typescript, and Figma**
 
 - 👨‍💻 All of my projects are available at [here](https://dmsokta.vercel.app/)
 
