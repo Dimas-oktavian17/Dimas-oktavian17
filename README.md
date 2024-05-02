@@ -4,17 +4,16 @@
 ![](https://komarev.com/ghpvc/?username=dimas-oktavian17)
 
 
-- 🔭 I’m currently working on [Data-Entry-Apps](https://github.com/Dimas-oktavian17/Data-entry-apps.git)
-- 🌱 I’m currently learning **Typescript, and Figma**
+- 🔭 I’m currently working on [Elysia Learning](https://github.com/Dimas-oktavian17/ElysiaJS-BackendLearning)
+
+- 🌱 I’m currently learning [ElysiaJs](https://elysiajs.com/)
 
 - 👨‍💻 All of my projects are available at [here](https://dmsokta.vercel.app/)
 
 - 📝 I regularly write articles on [here](https://dmsokta.vercel.app/blog)
 
 - 📫 How to reach me **dimas.ooktavian.17@gmail.com**
-
-- 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/1V3NtK8eT1iKCBpWDlvuNujD95JwPJ6N5/view)
-
+<!-- - 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/1V3NtK8eT1iKCBpWDlvuNujD95JwPJ6N5/view)-->
 - ⚡ Fun fact **Just a curious person**
 
 ### Blogs posts
