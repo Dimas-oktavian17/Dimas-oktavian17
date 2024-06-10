@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oktaa</h1>
+<h1 align="center">Hi 👋, I'm Oktaaa</h1>
 <h3 align="center">Interested in Front-End Development</h3>
 
 ![](https://komarev.com/ghpvc/?username=dimas-oktavian17)
