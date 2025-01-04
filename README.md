@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Elysia Learning](https://github.com/Dimas-oktavian17/ElysiaJS-BackendLearning)
 
-- 🌱 I’m currently learning [ElysiaJs](https://elysiajs.com/)
+- 🌱 I’m currently learning [Backend](https://elysiajs.com/)
 
 - 👨‍💻 All of my projects are available at [here](https://dmsokta.vercel.app/)
 
