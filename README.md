@@ -1,5 +1,5 @@
 # Dimas Oktavian Ramadhan
-**Aspiring Data Engineer | Backend Enthusiast | Full-Stack Explorer**
+**Aspiring Data Engineer**
 
 Currently pursuing a degree in **Information Systems**, I am transitioning from a specialized Frontend background (Vue/Nuxt) into **Data Engineering**. I focus on building robust data pipelines, scalable systems, and high-performance backends using **SQL**, **TypeScript (Hono)**, and **Cisco Networking** foundations.
 
