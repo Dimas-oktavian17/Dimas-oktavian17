@@ -6,7 +6,7 @@ Currently pursuing a degree in **Information Systems**, I am transitioning from 
 ---
 
 ### 🚀 Current Focus
-* **Hackerrank:** Solving problems SQL [Ok](https://www.hackerrank.com/dimas_ooktavian1/hackos) to master SQL as foundation Data Engineering.
+* **Hackerrank:** Solving problems SQL [SQL-HackerRank](https://www.hackerrank.com/dimas_ooktavian1/hackos) to master SQL as foundation Data Engineering.
 * **Learning:** Moving into the Data Engineering space with a focus on **ETL pipelines**, **Database Schema Design**, and **Real-time Data Processing**.
 * **Vision:** Bridging the gap between elegant user interfaces and scalable, data-driven backends.
 
